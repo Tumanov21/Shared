@@ -1,0 +1,1 @@
+- https://teletype.in/@kirsandzh/kill_a_hyena
