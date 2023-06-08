@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "34694a6a4dac2e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa8e6b679f3b50d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb3e73b75a84f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Список привычек.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53bf623942bcdd12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Book/Никогда не прекращайте учиться.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81640d4ce65a107b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Мозг/Сосредоточенность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41b6a9fe54d8f3f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49cb2d1c59c44ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03dca0d2185c592d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5baf113257b81c6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cdd927ab9209584",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2e4bca2c9065e14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f38563a941efeed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "990a0c325d8f7ed2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a406ec5f6c9be5c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Life/Список привычек.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "539846816c9adce4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Life/Список привычек.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5278cc6ccf31ab83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d782081a5b120ec0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Life/Список привычек.md"
+              }
+            }
+          },
+          {
+            "id": "9677f04b15509cc2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "03dca0d2185c592d",
+  "lastOpenFiles": [
+    "Productivity/Skills.md",
+    "Productivity/Draft.md",
+    "Productivity/Draft YouTube.md",
+    "Productivity/Work/Отдых.md",
+    "Productivity/Work/Draft.md",
+    "Productivity/Work",
+    "Productivity/Common/Templates/All/TmplTheorySmall.md",
+    "Productivity/Common/Templates/All/TmplTheoryBase.md",
+    "Productivity/Common/Templates/This",
+    "Productivity/Common/Templates/All",
+    "Productivity/Common/Templates",
+    "Productivity/Common",
+    "Productivity/Books/Logics/Informations/The data detective.md",
+    "Productivity/Books/Logics/Informations",
+    "Productivity/Books/ЯOldBookResult.md",
+    "Productivity/Books/ЯBookResult.md",
+    "Productivity/Books/Эссенциализм. Путь к простоте Грег МакКеон.md",
+    "Productivity/Books/Тайм драйв. Как успевать жить и работать Глеб Архангельский.md",
+    "Productivity/Books/Первые 20 часов. Как быстро научиться чему угодно Джош Кауфман.md",
+    "Productivity/Books/Свободно говорить на иностранном языке за 3 МЕСЯЦА. Бенни Льюис..md",
+    "Productivity/Books/Пробуй — получится! Сет Годин..md",
+    "Productivity/Books/Обучение навыков.md",
+    "Productivity/Books/Накопительный эффект Даррен Харди.md",
+    "Productivity/Books/Мысли по-крупному и не тормози Дональд Трамп.md",
+    "Productivity/Books/Меняя правила Дэйв Эспри.md",
+    "Productivity/Books/Кради как художник Остин Клеон.md",
+    "Productivity/Books/Как работать по 4 часа в неделю Тимоти Феррис.md",
+    "Productivity/Books/КАК ЗАМЕДЛЯТЬ ВРЕМЯ Джон Зерацки, Джейк Кнапп «Найди время».md",
+    "Productivity/Books/Как достигать больше и работать меньше.md",
+    "Productivity/Books/Интеллект карты (Тони Бьюзен).md",
+    "Productivity/Books/Икигай. Смысл жизни по-японски. Кен Моги Саммари.md",
+    "Productivity/Books/Иди туда, где страшно. Преодолей свой страх Джим Лоулесс.md",
+    "Productivity/Books/Logics",
+    "Productivity/Books",
+    "Productivity/Advice",
+    "Productivity",
+    "Psychology/Health/Psychology/_attachments_/Pasted image 20230305214044.png",
+    "Communication/BookOrator/_attachments_/Pasted image 20221108230747.png",
+    "Communication/Pasted image 20230409171047.png",
+    "Health/Pasted image 20230426143653.png",
+    "BookOrator/_attachments_/Pasted image 20221108230747.png"
+  ]
+}
