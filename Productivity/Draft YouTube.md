@@ -1,0 +1,21 @@
+- Книги
+	- Эмоциальная гибкость
+	- Принципы (Рэй далио)
+	- Думай как математик
+- Усталось 6 причин
+	- Псих и эмоц.
+		- Перенасыш. жизнь
+		- Токсичное окружение
+		- Игнор. своих нужд
+		- Постоян. тревога
+		- Депрессия
+		- Сртресс
+- Техника
+	- Кресло
+		- [Магазин](https://fragstore.ru/mebel-dlya-geymerov/igrovye-kresla/fragon/?utm_source=youtube&utm_medium=bloger&utm_campaign=igroman) 
+	- Лучшие наушники
+		- Havit H2008D (обычная версия)
+- Образование
+	- Закон Гейтса
+		- ПО становится более стремительно медленнее, чем компьютеры быстрее
+		- [Хороший сайт](https://theoryandpractice.ru/posts/7143-zakony-podlosti-11-vazhnykh-empiricheskikh-printsipov) 
