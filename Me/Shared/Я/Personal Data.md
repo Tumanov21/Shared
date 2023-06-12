@@ -1,0 +1,6 @@
+- Нога 26.5см
+- Надежный пароль - KRz8gO9&Xyi21$
+- Курс OTUS
+	- https://otus.ru/learning/89408/
+		-   naimanov@rbsoft.ru
+		-   YWup9Ntk5Ndd

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Список привычек.md",
+                "file": "Money/Траты/Июнь.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Список привычек.md",
+                "file": "Money/Траты/Июнь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Список привычек.md",
+                "file": "Money/Траты/Июнь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Список привычек.md"
+                "file": "Money/Траты/Июнь.md"
               }
             }
           },
@@ -189,46 +189,51 @@
   },
   "active": "03dca0d2185c592d",
   "lastOpenFiles": [
-    "Health/Травмы/Общее.md",
-    "Health/Травмы/Ахилы.md",
-    "Health/Травмы/Голеностопный сустав.md",
-    "Health/Травмы",
-    "Health/Красота/Draft.md",
-    "Health/Красота",
-    "Health/Зубы/Чистка.md",
-    "Health/Зубы",
-    "Health/Еда/Книги/Еда и мозг.md",
-    "Health/Еда/Книги",
-    "Health/Еда",
-    "Health/Витамины/Прием витаминов.md",
-    "Health/Витамины/Недостаток.md",
-    "Health/Витамины/Основы.md",
-    "Health/Витамины/Лучшие таблетки.md",
-    "Health/Витамины",
-    "Health/Muscles/Ускорение.md",
-    "Health/Muscles/Термины.md",
-    "Health/Muscles/Растяжка.md",
-    "Health/Muscles/Пресс.md",
-    "Health/Muscles/Добавки.md",
-    "Health/Muscles/Бицепс.md",
-    "Health/Muscles/База Тренировок.md",
-    "Health/Muscles",
-    "Health/Common/Templates/This/Tmpl Dairy.md",
-    "Health/Common/Templates/All/TmplTheorySmall.md",
-    "Health/Common/Templates/All/TmplTheoryBase.md",
-    "Health/Common/Templates/This",
-    "Health/Common/Templates/All",
-    "Health/Common/Templates",
-    "Communication/Common/Templates/All/TmplTheorySmall.md",
-    "Communication/Common/Templates/All/TmplTheoryBase.md",
-    "Communication/Wonem/Общение/Не нравишься.md",
-    "Communication/Wonem/Общение/Без названия.md",
-    "Communication/Wonem/Sex/Типы женщин.md",
-    "Communication/Wonem/Sex/Секс.md",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/Two/Упражнения.md",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/Three/Simple Three.md",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/_attachments_/Pasted image 20220510011135.png",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/_attachments_/Pasted image 20220510010958.png",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/Three/Deep three.md",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/_attachments_/Pasted image 20220510011146.png",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/Техника.md",
+    "Me/Relax/Hobby/Sport/Basketball/Training/Base.md",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/Two",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/Three",
+    "Me/Relax/Hobby/Sport/Basketball/Throw/_attachments_",
+    "Me/Relax/Hobby/Sport/Basketball/Phys Health/Legs.md",
+    "Me/Relax/Hobby/Sport/Basketball/Defence/One-one.md",
+    "Me/Relax/Hobby/Sport/Basketball/Phys/Phys.md",
+    "Me/Shared/SoftProgramm/Obsidian/_attachments_/Pasted image 20220508174126.png",
+    "Me/Shared/SoftProgramm/Obsidian/Ext/Mind Map.md",
+    "Me/Shared/SoftProgramm/Obsidian/Ext/Extension.md",
+    "Me/Shared/SoftProgramm/Obsidian/Ext/Templates.md",
+    "Me/Relax/Hobby/Sport/Basketball/Training",
+    "Me/Relax/Hobby/Sport/Basketball/Throw",
+    "Me/Relax/Hobby/Sport/Basketball/Defence",
+    "Me/Relax/Hobby/Sport/Basketball/Phys",
+    "Me/Relax/Hobby/Sport/Basketball/Phys Health",
+    "Me/Shared/SoftProgramm/Total Commander/HotKey.md",
+    "Me/Shared/SoftProgramm/Obsidian/Ссылки.md",
+    "Me/Shared/SoftProgramm/Obsidian/Тэги.md",
+    "Me/Shared/SoftProgramm/Obsidian/ToDo.md",
+    "Me/Shared/SoftProgramm/Obsidian/Без названия",
+    "Me/Shared/SoftProgramm/Obsidian/_attachments_",
+    "Me/Shared/SoftProgramm/Obsidian/Setting.md",
+    "Me/Shared/SoftProgramm/Obsidian/Func.md",
+    "Me/Shared/SoftProgramm/Help Computer/Установка без флешки.md",
+    "Me/Shared/SoftProgramm/Obsidian/Obsidian.md",
+    "Me/Shared/SoftProgramm/HotKeys/Windows.md",
+    "Me/Shared/SoftProgramm/HotKeys/Google Chrome.md",
+    "Me/Relax/Hobby/Писанина/Draft.md",
+    "Me/Relax/Hobby/Писанина/О чем.md",
+    "Me/Relax/Hobby/YouYube/Хакинг.md",
+    "Me/Relax/Hobby/YouYube/Комплектующие.md",
+    "Me/Relax/Hobby/YouYube/Новости.md",
+    "Me/Pasted image 20230426143811.png",
+    "Me/Pasted image 20230514225219.png",
     "Communication/BookOrator/_attachments_/Pasted image 20221108230747.png",
     "Communication/Pasted image 20230409171047.png",
     "Psychology/Health/Psychology/_attachments_/Pasted image 20230305214044.png",
-    "Health/Pasted image 20230426143653.png",
-    "BookOrator/_attachments_/Pasted image 20221108230747.png"
+    "Health/Pasted image 20230426143653.png"
   ]
 }
